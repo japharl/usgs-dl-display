@@ -23,4 +23,6 @@ for ($i=0; $i <= $max_x ; $i++){
 
 __END__
 
+This code downloads the necessary png images files and puts them in an appropriate directory...
+
 base = See services @ http://basemap.nationalmap.gov/arcgis/rest/services (eg: USGSTopo )
